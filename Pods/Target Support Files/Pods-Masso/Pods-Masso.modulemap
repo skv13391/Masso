@@ -1,0 +1,6 @@
+framework module Pods_Masso {
+  umbrella header "Pods-Masso-umbrella.h"
+
+  export *
+  module * { export * }
+}
