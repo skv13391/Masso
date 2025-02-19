@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1008402604939-647f44gih4vggh75a0soj29lkrq60iub.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1008402604939-647f44gih4vggh75a0soj29lkrq60iub</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBI4aU3-txEKdQgPWPBSnbSyv0U6JgA388</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1008402604939</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Demo.Masso</string>
+	<key>PROJECT_ID</key>
+	<string>masso-android</string>
+	<key>STORAGE_BUCKET</key>
+	<string>masso-android.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1008402604939:ios:0f78b3e327270ecc36458e</string>
+</dict>
+</plist>
